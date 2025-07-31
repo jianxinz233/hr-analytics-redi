@@ -37,6 +37,18 @@ hr-analytics-redi/
 ├── data/ # Raw CSV files used in the analysis
 ├── powerbi/ # Power BI dashboard (.pbix)
 ├── report/ # PDF presentation slides
+├── python-version/ # In Progress
+│   ├── notebooks/
+│   │   ├── 01_data_cleaning.ipynb
+│   │   ├── 02_eda_and_kpis.ipynb
+│   │   └── 03_visualizations.ipynb
+│   ├── scripts/
+│   │   ├── data_model.py
+│   │   └── kpi_functions.py
+│   ├── outputs/
+│   │   ├── summary_tables/
+│   │   └── visualizations/
+│   └── requirements.txt
 └── README.md # Project description and instructions
 ```
 
