@@ -1,0 +1,29 @@
+id,title,job_level,department
+5a810447-1b6e-4f7d-8ec7-21ed5ef4c33a,Business Intelligence Manager,0,Business Intelligence
+b56c4013-6523-40e5-bc23-4284a1e4b4da,Data Analyst,1,Business Intelligence
+5f44c938-ac3c-465f-9666-79f5052139aa,BI Developer,2,Business Intelligence
+25f7a622-64f5-49b5-9256-cd7bedf9f2db,BI Architect,3,Business Intelligence
+1f3f8bb6-fe52-49b3-bba5-35b37cb80c77,Cybersecurity Manager,0,Cybersecurity
+b955e70e-c842-422a-90de-f3841bd1b14c,Security Analyst,1,Cybersecurity
+e5576e0f-883f-4ee7-afc2-543adbd4fdc1,Security Engineer,2,Cybersecurity
+ddae60da-e7a3-4217-a385-c24a598d356b,Security Architect,3,Cybersecurity
+45ea6a07-98bd-41b6-b05b-bb2ff7ea9e20,Chief Security Officer,4,Cybersecurity
+7f4e5961-116d-41b0-b327-e25d4544f544,Finance Manager,0,Finance
+76fc3a46-f84c-43c4-a87a-d876823ff776,Accountant,1,Finance
+1ee4bd5e-6f3c-4abb-b5ea-ee2f64d07285,Financial Analyst,2,Finance
+14af062e-bf4d-42d7-a9f3-dfc5b2a1dc8c,Chief Finance Officer,3,Finance
+d346aab5-5028-48bd-b2d8-0d45eb9569e0,Human Resources Manager,0,Human Resources
+84a931cf-227a-4b48-bd99-ddd8ef5ffa8b,HR Assistant,1,Human Resources
+f65c0b5e-6d62-49cd-9ee8-5ce67543f1de,HR Specialist,2,Human Resources
+b607c77f-f49b-415c-8c8f-427838782c35,HR Director,3,Human Resources
+42412ba4-602f-4e84-845d-9c967fb8579a,Chief Executive Officer,1,Management
+397fb797-62f2-4a77-b87d-b5be4bb013c6,Chief Operating Officer,2,Management
+1903a6ad-fc43-4c81-afc8-3bf97cc98483,Marketing Manager,0,Marketing
+45b743f6-aa8e-4bc9-aac1-4020269a90ea,Marketing Analyst,1,Marketing
+27e4edca-2855-42d4-95e7-f02fda93317a,Marketing Specialist,2,Marketing
+3945373d-5f7a-4b78-80d6-b33d3e89ddfb,Marketing Director,3,Marketing
+0f001c6a-1ff1-4be5-ae78-59eba9914b04,Product Development Manager,0,Product Development
+ba55a34e-7c02-4224-adb8-e673810d8c8a,Software Developer,1,Product Development
+1b1f9de8-7779-417b-a506-45ca3cfe4def,Senior Developer,2,Product Development
+ca800f48-24a3-4802-9779-138796462142,Lead Developer,3,Product Development
+5a621969-b47a-4689-905f-ac8463b80da7,Distinguished Developer,4,Product Development
