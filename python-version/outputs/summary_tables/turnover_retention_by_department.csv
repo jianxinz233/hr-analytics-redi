@@ -1,0 +1,8 @@
+department,total,terminated,active,turnover_rate,retention_rate
+Product Development,299,216,83,0.7224080267558528,0.27759197324414714
+Marketing,33,23,10,0.696969696969697,0.30303030303030304
+Cybersecurity,31,20,11,0.6451612903225806,0.3548387096774194
+Finance,10,6,4,0.6,0.4
+Business Intelligence,53,12,41,0.22641509433962265,0.7735849056603774
+Human Resources,10,0,10,0.0,1.0
+Management,2,0,2,0.0,1.0
